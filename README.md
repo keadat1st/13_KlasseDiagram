@@ -1,4 +1,4 @@
-# 13 KlasseDiagram
+# 13  Classe Diagram
 Agenda day 13 (design)
 
 ## Literature:
